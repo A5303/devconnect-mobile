@@ -1,0 +1,9 @@
+﻿{
+  "expo": {
+    "name": "DevConnect Mobile",
+    "slug": "devconnect-mobile",
+    "version": "1.0.0",
+    "platforms": ["ios", "android"],
+    "orientation": "portrait"
+  }
+}
