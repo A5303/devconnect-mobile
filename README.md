@@ -7,7 +7,7 @@
 [![Live Demo](https://img.shields.io/badge/demo-live-brightgreen)](https://snack.expo.dev/)
 
 ##  Live Demo
-**Your React Native portfolio app is running live in Expo Snack!**
+**React Native portfolio app is running live in Expo Snack!**
 
 >  No setup required - view the working app instantly!
 
@@ -46,3 +46,4 @@ The app is fully functional with a live demo available.
 **Built by Magdaline Kiarie**  
 *React Native Developer*
 '@ | Out-File -FilePath README.md -Encoding utf8 -Force
+
