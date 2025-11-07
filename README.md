@@ -45,5 +45,5 @@ The app is fully functional with a live demo available.
 
 **Built by Magdaline Kiarie**  
 *React Native Developer*
-'@ | Out-File -FilePath README.md -Encoding utf8 -Force
+
 
